@@ -2,6 +2,7 @@
 [![Continuous Build][ci-image]][ci-url]
 [![Coverage Status][codecov-image]][codecov-url]
 [![Maven Central][maven-image]][maven-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnkit01Mishra%2Fopentelemetry-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnkit01Mishra%2Fopentelemetry-java?ref=badge_shield)
 
 ## Getting Started
 
@@ -245,3 +246,7 @@ Maintainers ([@open-telemetry/java-maintainers](https://github.com/orgs/open-tel
 [maven-url]: https://maven-badges.herokuapp.com/maven-central/io.opentelemetry/opentelemetry-api
 [opentelemetry-java-instrumentation]: https://github.com/open-telemetry/opentelemetry-java-instrumentation
 [opentelemetry.io]: https://opentelemetry.io
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnkit01Mishra%2Fopentelemetry-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnkit01Mishra%2Fopentelemetry-java?ref=badge_large)
